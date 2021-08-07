@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: TestSite
+Class-Path: C:\Users\cristinavasquez\IdeaProjects\CrossBrowserRegression
+ -NoUI\src\main\java
+
